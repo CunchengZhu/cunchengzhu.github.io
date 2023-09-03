@@ -8,7 +8,19 @@ layout: base
   {%- endif -%}
 
   {{ content }}
+  
+  I am a graduate student in the Department of Mechanical and Aerospace Engineering Department at the University of California, San Diego specialized in <a href="https://csme.ucsd.edu">Computational Science, Mathematics and Engineering (CSME)</a>. 
+  I am advised by <a href="http://stokeslet.ucsd.edu">Prof. David Saintillan</a> and <a href="https://cseweb.ucsd.edu/~alchern/">Prof. Albert Chern</a>. 
+  I am interested in understanding shape and flow of soft material using the mathematical language of  partial differential equations and differential geometry.
+  In particular, the so-called developmental biology and morpphogenesis problems are of my interests due to its active nature. 
+  Also because of its societal impact. 
+  How the population crisis and gender inequality can be solved by better understanding the developmental biology of human embryo?
 
+
+  
+  understanding geometric and soft matter mechanics problems in biological systems. 
+  I am currently working on developing the theoretical and computational framework to study active nematic fluid on curved surfaces. 
+  <br> <br>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -16,11 +28,15 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
+ <h1> News </h1>
+ <hr>
 
   {%- if posts.size > 0 -%}
+
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
