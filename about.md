@@ -21,6 +21,7 @@ My first name is Cun-Cheng (Chinese characters 存 t͡sʰwən˧˥ -诚 t͡ʂʰɤ
 
 
 ## Presentations
+- Dynamics of active nematic fluids on arbitrary manifolds: exploring the role of geometry and topology at *Mechanics of Life workshop hosted by Center for Computational Biology, Flatiron Institute*
 - Dynamics of active nematic fluids on arbitrary manifolds: exploring the role of geometry and topology at *APS DFD 76th Annual Meeting*
 - Hydrodynamics of active nematics on curved and deformable surface at *So Cal Fluids XVI 2023, SDSU* 
 - Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry at *Poster session at Research Expo 2022, Jacobs School of Engineering, UCSD*
