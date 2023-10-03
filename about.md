@@ -4,7 +4,8 @@ title: About me
 permalink: /about/
 ---
 <!-- ## Name and Pronouciation  -->
-My first name is Cun-Cheng (Chinese characters 存 t͡sʰwən˧˥ -诚 t͡ʂʰɤŋ˧˥), or in short, Cheng, and last name is Zhu, 朱(t͡ʂu˥). 
+My first name is Cun"Cheng" (Chinese characters 存诚), or in short, Cheng(诚), and last name is Zhu, 朱. 
+<!-- My first name is Cun-Cheng (Chinese characters 存 t͡sʰwən˧˥ -诚 t͡ʂʰɤŋ˧˥), or in short, Cheng, and last name is Zhu, 朱(t͡ʂu˥).  -->
 
 ## Education
 - University of California, San Diego
