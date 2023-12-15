@@ -1,7 +1,7 @@
 title: Cuncheng Zhu 
 author:
   name: Cuncheng Zhu
-  email: cuzhu@ucsd.edu
+  email: cuzhu-at-ucsd-dot-edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -42,8 +42,8 @@ minima:
     # - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
     # - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
     # - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    - { platform: twitter,        user_url: "https://twitter.com/CunchengZhu" }
-    # - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+    - { platform: X,        user_url: "https://twitter.com/CunchengZhu" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@CunchengZhu" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
