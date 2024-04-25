@@ -14,7 +14,7 @@ My first name is Cun"Cheng" (Chinese characters 存诚), or in short, Cheng(诚)
     - BS, Mechanical Engineering, 2015-2019
 - Shenzhen Middle School, China
 
-## Publications
+## Selected Publications
 
 <!-- the image layout is based on https://lizheidner.com/front-end/responsive-images/ -->
 
