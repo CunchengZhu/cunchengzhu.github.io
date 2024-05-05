@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Curriculum Vitae
 permalink: /about/
 ---
 <!-- ## Name and Pronouciation  -->
