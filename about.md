@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /about/
 ---
 <!-- ## Name and Pronouciation  -->
-My first name is Cun"Cheng" (Chinese characters 存诚), or in short, Cheng(诚), and last name is Zhu, 朱. 
+My first name is CunCheng (Chinese characters 存诚), or in short, Cheng(诚), and last name is Zhu, 朱. 
 <!-- My first name is Cun-Cheng (Chinese characters 存 t͡sʰwən˧˥ -诚 t͡ʂʰɤŋ˧˥), or in short, Cheng, and last name is Zhu, 朱(t͡ʂu˥).  -->
 
 ## Education
@@ -19,6 +19,7 @@ My first name is Cun"Cheng" (Chinese characters 存诚), or in short, Cheng(诚)
 <!-- the image layout is based on https://lizheidner.com/front-end/responsive-images/ -->
 
 | <img src="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg" srcset="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg 100w" sizes="100vw" alt="image alt text" width = 200> |     **Cuncheng Zhu**, Christopher T. Lee, Padmini Rangamani <br><br> *Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry* <br><br>  Biophysical Reports (Cover of Sep 14, 2022 issue)   | [doi](https://doi.org/10.1016/j.bpr.2022.100062) <br> [Blog](https://www.biophysics.org/blog/from-the-animation-industry-to-membrane-biophysics)  <br> [Arxiv](https://arxiv.org/abs/2111.04460) [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.10.30.466618v2) <br> [Repo](https://github.com/CunchengZhu/Mem3DG) <!-- - solicited by the editor-in-chief for submission and cover of Sep 14, 2022 issue) -->   |
+| <img src="/assets/images/rie_act_nem.png" srcset="/assets/images/rie_act_nem.png 100w" sizes="100vw" alt="image alt text" width = 200> |     **Cuncheng Zhu**, David Saintillan, Albert Chern <br><br> *Active nematic fluids on Riemannian 2-manifolds*  | [Arxiv](https://arxiv.org/abs/2405.06044)  <br> [Repo](https://github.com/CunchengZhu/Riemannian-active-nematics-2024) <br> [Talk](https://youtu.be/X2UgUIvwduw)  |
 
 
 ## Presentations
