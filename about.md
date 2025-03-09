@@ -3,9 +3,10 @@ layout: page
 title: Curriculum Vitae
 permalink: /about/
 ---
+# Curriculum Vitae  <a href="/assets/files/cv2_zhu.pdf" target="_blank"><img src="/assets/images/pdf.png" alt="CV" style="vertical-align: middle; margin-left: 5px; width: 35px; height: 35px;"></a>
 <!-- ## Name and Pronouciation  -->
-My first name is CunCheng (存诚), or in short, Cheng (诚), and last name is Zhu (朱). 
-<!-- My first name is Cun-Cheng (Chinese characters 存 t͡sʰwən˧˥ -诚 t͡ʂʰɤŋ˧˥), or in short, Cheng, and last name is Zhu, 朱(t͡ʂu˥).  -->
+My first name is CunCheng (存诚), or in short, Cheng (诚), and last name is Zhu (朱).  
+<!-- My first name is Cun-Cheng (Chinese characters 存 t͡sʰwən˧˥ -诚 t͡ʂʰɤŋ˧˥), or in short, Cheng, and laqst name is Zhu, 朱(t͡ʂu˥).  -->
 
 ## Education
 - University of California, San Diego
