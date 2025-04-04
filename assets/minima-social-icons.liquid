@@ -4,18 +4,15 @@ permalink: /assets/minima-social-icons.svg
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 {% comment %}
-  Render all custom SVG files located in /assets/icons/ directory.
+  Iterate through {{ site.minima.social_links }} and render platform related SVG-symbol
+  unless the platform is "rss" because we need the "rss" symbol for the `Subscribe` link
+  in the footer and therefore inject the "rss" icon outside the iteration loop.
 {% endcomment %}
 {% for entry in site.minima.social_links %}
   {%- assign symbol_id = entry.platform -%}
   {%- unless symbol_id == "rss" -%}
-    <symbol id="{{ symbol_id }}" viewBox="0 0 16 16">
-      {% capture icon_path %}
-      {% include_relative /social-icons/{{ symbol_id }}.svg %}
-      {% endcapture %}
-      {{ icon_path | strip_newlines }}
-    </symbol>
+    {%- include svg_symbol.html key = symbol_id -%}
   {% endunless %}
-{% endfor %}
+{%- endfor -%}
   {%- include svg_symbol.html key = "rss" -%}
 </svg>
