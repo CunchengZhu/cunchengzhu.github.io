@@ -50,7 +50,7 @@ minima:
 #
 header_pages:
   - about.md
-  # - projects.md
+  - projects.md
   # - gallery.md
 
 # Set to `true` to show excerpts on the homepage.
