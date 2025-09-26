@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
 ---
-# Projects
+# Research
 
 ## Fluid membrane
 When we talk about isotropic fluid membranes, the classic example that comes to mind is a soap bubble. Microscopically, it consists of a thin layer of water enclosed by two layers of surfactant molecules. Both the water and surfactant molecules are free to move tangentially, meaning the membrane behaves as a two-dimensional isotropic fluid. However, due to the lack of internal structure, the only stress it can support is tangential, known as surface tension.
