@@ -1,0 +1,115 @@
+
+<head>
+  <meta charset="utf-8">
+  <title>Viscous Vortex Dynamics on Surfaces</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link href=https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100;0,300;0,400;0,700;1,300;1,400;1,700&display=swap rel='stylesheet'>
+  <style>
+    a:link, a:visited {  
+      color: rgb(57, 58, 58);
+      text-decoration:none;
+      /* background-color: rgb(255, 227, 227); */
+    }
+    .container {
+  position: relative;
+  color: rgb(57, 58, 58);
+}
+
+/* Bottom left text */
+.bottom-left {
+  width: 50%;text-align: justify;
+}
+
+/* Top left text */
+.top-left {
+  /* position: absolute; */
+  margin-top: -20px;
+  float: right; width: 40%;
+  /* left: 500px; */
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  max-width: 370px;text-align: justify;line-height: 1.5;
+  /* font-family: 'Roboto';font-weight:300; font-size: 16px; */
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+</head>
+
+<div style="margin-top:20;margin-left:110;margin-right:110;margin-bottom: 100;
+    background-color:#ffffffff;padding:50px;color:rgb(57, 58, 58);padding-top:50px; padding-left: 100px; padding-right: 100px;">
+    <h1 style="font-family: 'Roboto Condensed';font-weight: 700; font-size: 40px;">Viscous Vortex Dynamics on Surfaces</h1>
+    <p style="font-family: 'Roboto';font-weight:300; font-size: 16px;margin-top:-15px;line-height: 1.5;">
+      <a href="https://yhesper.github.io"><u>Cuncheng Zhu</u></a><sup>†</sup>, 
+      <a href="https://yhesper.github.io"><u>Hang Yin</u></a><sup>†</sup>, 
+      <a href="https://cseweb.ucsd.edu/~alchern/"><u>Albert Chern</u></a>
+      <small><sup>†</sup> Equal contribution</small> 
+      <br>
+      ACM Transactions on Graphics (SIGGRAPH Asia 2025)
+    </p>
+    <img src="../assets/images/vis_vor_siggraph.png" alt="teaser" width=100% class="center">
+    <!-- abstract -->
+  <br>
+  <br>
+  <h2 style="font-family: 'Roboto Condensed';font-weight: 700;">Abstract</h2>
+
+    <p style="font-family: 'Roboto';font-weight:300; font-size: 16px; text-align: justify;line-height: 1.5;">
+      We present a vorticity method for simulating incompressible viscous flows on curved surfaces governed by the Navier–Stokes equations. Unlike previous approaches, our formulation incorporates the often-overlooked Gaussian-curvature-dependent term in the viscous force, which influences both the vorticity equation and the evolution of harmonic components. We show that these curvature-related terms are crucial for reproducing physically correct fluid behavior. We introduce an implicit–explicit (IMEX) scheme for solving the resulting system on triangle meshes and demonstrate its effectiveness on surfaces with arbitrary topology, including non-orientable surfaces, and under a variety of boundary conditions. Our theoretical contributions include several explicit formulas: a vorticity jump condition across curvature sheets, a geometric correspondence between friction coefficients and boundary curvature adjustments, and the influence of boundary curvature on harmonic modes. These results not only simplify the algorithmic design but also offer geometric insight into curvature-driven fluid phenomena, such as the emergence of the Kutta condition under free-slip boundaries.
+    </p>
+    <br>
+    <div class="container">
+      <h2 style="font-family: 'Roboto Condensed';font-weight: 700;">Video</h2>
+        <iframe width="396" height="225" src="https://www.youtube.com/embed/7jpIGQ0LVV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <!-- <img src="conserved.png" alt="Snow" style="width:45%;"> -->
+      <div class="top-left" >
+        <h2 style="font-family: 'Roboto Condensed';font-weight: 700;">Links and materials</h2>
+        <p style="font-family: 'Roboto';font-weight:300; font-size: 18px; max-width: 800px;">
+          <a href="../assets/files/ViscousVortex.pdf" target="_blank"><img src="svg/file-search.svg"  class=icon style="width:10%">  Paper</a>
+          <br>
+          <br>
+          <a href="https://cseweb.ucsd.edu/~alchern/projects/ViscousVortex/supplementary.zip" target="_blank"><img src="svg/save.svg"  class=icon style="width:10%"> Code (Houdini and C++)</a>
+          <br>
+          <br>
+          <!-- <a href="https://doi.org/10.1145/3592402" target="_blank"><img src="svg/link.svg"  class=icon style="width:10%"> ACM Digital Library</a> -->
+        </p>
+      </div>
+      <!-- <div class="bottom-left">
+        <p style="font-family: 'Roboto';font-weight:300; font-size: 14px;line-height: 1.5;">
+        Cross-sectional fluxes, evolve precisely at the rate at which a vortex line cuts through a harmonic streamline.</p>
+      </div> -->
+    </div>
+
+    <!-- <div style="margin-top:35"> -->
+      <!-- <h2 style="font-family: 'Roboto Condensed';font-weight: 700;">Video</h2> -->
+      <!-- <p style="font-family: 'Roboto';font-weight:300; font-size: 16px; text-align: justify;line-height: 1.5;">
+        Coming soon!
+      </p> -->
+      <!-- <div style="text-align: center">
+        <iframe width="672" height="378" src="https://www.youtube.com/embed/eY8RUi5mrhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div> -->
+
+    <p>
+      <br>
+      <br>
+      <br>
+    </p>
+</div>
