@@ -14,27 +14,157 @@ permalink: /about/
     - BS, Mechanical Engineering, 2015-2019
 - Shenzhen Middle School, China -->
 
-# Publications
+<section class="pub-section">
 
-## Selected Works
-<!-- the image layout is based on https://lizheidner.com/front-end/responsive-images/ -->
+<div class="pub-card">
+  <a href="/project_pages/ViscousVortex2025.html" class="pub-image-link">
+    <img src="/assets/images/vis_vor_siggraph.png" alt="Viscous vortex dynamics" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Viscous vortex dynamics on surfaces</h3>
+    <p><strong>C. Zhu</strong><sup>†</sup>, Hang Yin<sup>†</sup>, Albert Chern<br>
+    <small><sup>†</sup> Equal contribution</small></p>
+    <p><em>ACM Transactions on Graphics (TOG) — SIGGRAPH Asia 2025 (Vol. 44, Issue 6, No. 178)</em></p>
+    <p class="pub-links">
+      <a href="/assets/files/ViscousVortex.pdf"> PDF </a> · 
+      <a href="https://youtu.be/7jpIGQ0LVV0"> Video </a> · 
+      <a href="/project_pages/ViscousVortex2025.html"> Page </a>
+    </p>
+  </div>
+</div>
 
-| <a href="/project_pages/ViscousVortex2025.html"> <img src="/assets/images/vis_vor_siggraph.png" srcset="/assets/images/vis_vor_siggraph.png 100w" sizes="100vw" alt="image alt text" width = 400> </a>| **C. Z.** <sup>†</sup>, Hang Yin<sup>†</sup>, Albert Chern <br> <small>† Equal contribution</small> <br><br> *Viscous vortex dynamics on surfaces*  <br><br> ACM Transactions on Graphics (TOG)—Proceedings of ACM SIGGRAPH Asia 2025 (Vol. 44 Issue 6, No. 178) | [pdf](/assets/files/ViscousVortex.pdf) <br> [video](https://youtu.be/7jpIGQ0LVV0) <br> [page](/project_pages/ViscousVortex2025.html) |
-| <img src="/assets/images/rspa.jpg" srcset="/assets/images/rspa.jpg 100w" sizes="100vw" alt="image alt text" width = 400> |     **C. Z.**, David Saintillan, Albert Chern <br><br> *Active nematic fluids on Riemannian 2-manifolds*  <br><br> Proceedings of the Royal Society A (cover of volume 481, issue 2311, April 2025) | [pdf](/assets/files/RiemannianNematics.pdf) <br> [doi](https://doi.org/10.1098/rspa.2024.0418) [Arxiv](https://arxiv.org/abs/2405.06044)  <br> [Repo](https://github.com/CunchengZhu/Riemannian-active-nematics-2024)  |
-| <img src="/assets/images/evolve.jpeg" srcset="/assets/images/evolve.jpeg 100w" sizes="100vw" alt="image alt text" width = 400> |     **C. Z.**, David Saintillan, Albert Chern <br><br> *Stokes flow of an evolving fluid film with arbitrary shape and topology*  <br><br> Journal of Fluid Mechanics (volume 1003, Jan 2025) | [pdf](/assets/files/EvolvingStokes.pdf) <br>  [doi](https://doi.org/10.1017/jfm.2024.1208) <br> [Arxiv](https://arxiv.org/abs/2407.14025)  <br> [Repo](https://github.com/CunchengZhu/Evolving-Stokes-flow-2024.git) |
-| <img src="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg" srcset="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg 100w" sizes="100vw" alt="image alt text" width = 400> |     **C. Z.**, Christopher T. Lee, Padmini Rangamani <br><br> *Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry* <br><br>  Biophysical Reports (cover of Sep 14, 2022 issue)   | [doi](https://doi.org/10.1016/j.bpr.2022.100062) <br> [Blog](https://www.biophysics.org/blog/from-the-animation-industry-to-membrane-biophysics)  <br> [Arxiv](https://arxiv.org/abs/2111.04460) [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.10.30.466618v2) <br> [Repo](https://github.com/CunchengZhu/Mem3DG) <!-- - solicited by the editor-in-chief for submission and cover of Sep 14, 2022 issue) -->   |
+<div class="pub-card">
+  <a href="/assets/files/RiemannianNematics.pdf" class="pub-image-link">
+    <img src="/assets/images/rspa.jpg" alt="Active nematic fluids" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Active nematic fluids on Riemannian 2-manifolds</h3>
+    <p><strong>C. Zhu</strong>, David Saintillan, Albert Chern</p>
+    <p><em>Proceedings of the Royal Society A</em> (Cover of Vol. 481, Issue 2311, Apr 2025)</p>
+    <p class="pub-links">
+      <a href="/assets/files/RiemannianNematics.pdf"> PDF </a> · 
+      <a href="https://doi.org/10.1098/rspa.2024.0418"> DOI </a> · 
+      <a href="https://arxiv.org/abs/2405.06044"> ArXiv </a> · 
+      <a href="https://github.com/CunchengZhu/Riemannian-active-nematics-2024"> Code </a>
+    </p>
+  </div>
+</div>
 
-<!-- 
-## Presentations
-- Viscous flow of evolving film with arbitrary geometry and topology at *2025 SIAM Conference on Computational Science and Engineering (CSE25), Section of Geometric Mechanics*
-- Viscous flow of evolving film with arbitrary geometry and topology at *the 16th World Congress on Computational Mechanics (WCCM)/4th Pan American Congress on Computational Mechanics (PANACM), Section of Geometric Mechanics*
-- Active nematic fluids on Riemannian 2-manifolds at *Southern California Applied Mathematics Symposium 2024, UCSD*
-- Viscous flow of evolving film with arbitrary geometry and topology at *Southern California Flow Physics Symposium (SoCal Fluids) XVII 2024, UCI*
-- Dynamics of active nematic fluids on arbitrary manifolds: exploring the role of geometry and topology at *Mechanics of Life II workshop hosted by Center for Computational Biology, Flatiron Institute*
-- Dynamics of active nematic fluids on arbitrary manifolds: exploring the role of geometry and topology at *APS DFD 76th Annual Meeting*
-- Hydrodynamics of active nematics on curved stationary and deformable surface at *Southern California Flow Physics Symposium (SoCal Fluids) XVI 2023, SDSU* 
-- Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry at *Poster session at Research Expo 2022, Jacobs School of Engineering, UCSD*
-- Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry at *Allen Institute for Cell Science*
-- Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry at *Biophysical Society 2022 poster session*  -->
+<div class="pub-card">
+  <a href="/assets/files/EvolvingStokes.pdf" class="pub-image-link">
+    <img src="/assets/images/evolve.jpeg" alt="Evolving Stokes flow" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Stokes flow of an evolving fluid film with arbitrary shape and topology</h3>
+    <p><strong>C. Zhu</strong>, David Saintillan, Albert Chern</p>
+    <p><em>Journal of Fluid Mechanics</em> (Vol. 1003, Jan 2025)</p>
+    <p class="pub-links">
+      <a href="/assets/files/EvolvingStokes.pdf"> PDF </a> · 
+      <a href="https://doi.org/10.1017/jfm.2024.1208"> DOI </a> · 
+      <a href="https://arxiv.org/abs/2407.14025"> ArXiv</a> · 
+      <a href="https://github.com/CunchengZhu/Evolving-Stokes-flow-2024.git"> Code </a>
+    </p>
+  </div>
+</div>
 
-## Complete List <a href="/assets/files/cv2_zhu.pdf" target="_blank"><img src="/assets/images/pdf.png" alt="CV" style="vertical-align: middle; margin-left: 5px; width: 35px; height: 35px;"></a>
+<div class="pub-card">
+  <img src="/assets/images/griswold-axon-pearling.webp" alt="Axonal pearling" class="pub-image">
+  <div class="pub-text">
+    <h3>Membrane mechanics dictate axonal pearls-on-a-string morphology and function</h3>
+    <p>Jacqueline M. Griswold <em>et al.</em></p>
+    <p><em>Nature Neuroscience</em> (2025)</p>
+    <p class="pub-links"><a href="https://doi.org/10.1038/s41593-024-01813-1"> DOI </a></p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <img src="/assets/images/nakamura-actuator.webp" alt="ActuAtor paper" class="pub-image">
+  <div class="pub-text">
+    <h3>ActuAtor: a Listeria-inspired molecular tool for physical manipulation of intracellular organizations</h3>
+    <p>Hideki Nakamura <em>et al.</em></p>
+    <p><em>Cell Reports</em> (2023)</p>
+    <p class="pub-links"><a href="https://doi.org/10.1016/j.celrep.2023.113089"> DOI </a></p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <a href="/assets/files/mem3dg.pdf" class="pub-image-link">
+    <img src="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg" alt="Mem3DG" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry</h3>
+    <p><strong>C. Zhu</strong>, Christopher T. Lee, Padmini Rangamani</p>
+    <p><em>Biophysical Reports</em> (Cover, Sep 2022)</p>
+    <p class="pub-links">
+      <a href="/assets/files/mem3dg.pdf"> PDF </a> · 
+      <a href="https://doi.org/10.1016/j.bpr.2022.100062"> DOI </a> · 
+      <a href="https://www.biophysics.org/blog/from-the-animation-industry-to-membrane-biophysics"> Blog </a> · 
+      <a href="https://www.biorxiv.org/content/10.1101/2021.10.30.466618v2"> ArXiv </a> · 
+      <a href="https://github.com/CunchengZhu/Mem3DG"> Code </a>
+    </p>
+  </div>
+</div>
+
+</section>
+
+<style>
+.pub-section {
+  max-width: 960px;
+  margin: auto;
+  padding: 1rem 0;
+}
+.pub-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 1.5rem;
+}
+.pub-image {
+  width: 180px;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0,0,0,0);
+  transition: transform 0.2s ease;
+}
+.pub-image:hover {
+  transform: scale(1.03);
+}
+.pub-text {
+  flex: 1;
+}
+.pub-text h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+}
+.pub-text em {
+  color: #000000ff;
+}
+.pub-links {
+  margin-top: 0.4rem;
+}
+.pub-links a {
+  color: #0366d6;
+  text-decoration: none;
+  margin-right: 0.3rem;
+}
+.pub-links a:hover {
+  text-decoration: underline;
+}
+@media (max-width: 700px) {
+  .pub-card {
+    flex-direction: column;
+    align-items: center;
+  }
+  .pub-image {
+    width: 100%;
+    max-width: 500px;
+  }
+  .pub-text {
+    text-align: left;
+  }
+}
+</style>
