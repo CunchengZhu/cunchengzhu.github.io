@@ -68,7 +68,9 @@ permalink: /about/
 </div>
 
 <div class="pub-card">
-  <img src="/assets/images/griswold-axon-pearling.webp" alt="Axonal pearling" class="pub-image">
+  <a href="https://doi.org/10.1038/s41593-024-01813-1" target="_blank" class="pub-image-link">
+    <img src="/assets/images/griswold-axon-pearling.webp" alt="Axonal pearling" class="pub-image">
+  </a>
   <div class="pub-text">
     <h3>Membrane mechanics dictate axonal pearls-on-a-string morphology and function</h3>
     <p>Jacqueline M. Griswold <em>et al.</em></p>
@@ -78,7 +80,9 @@ permalink: /about/
 </div>
 
 <div class="pub-card">
-  <img src="/assets/images/nakamura-actuator.webp" alt="ActuAtor paper" class="pub-image">
+  <a href="https://doi.org/10.1016/j.celrep.2023.113089" target="_blank" class="pub-image-link">
+    <img src="/assets/images/nakamura-actuator.webp" alt="actuator" class="pub-image">
+  </a>
   <div class="pub-text">
     <h3>ActuAtor: a Listeria-inspired molecular tool for physical manipulation of intracellular organizations</h3>
     <p>Hideki Nakamura <em>et al.</em></p>
