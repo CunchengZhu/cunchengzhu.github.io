@@ -27,6 +27,7 @@ permalink: /about/
     <p><em>ACM Transactions on Graphics (TOG) — SIGGRAPH Asia 2025 (Vol. 44, Issue 6, No. 178)</em></p>
     <p class="pub-links">
       <a href="/assets/files/ViscousVortex.pdf"> PDF </a> · 
+      <a href="https://doi.org/10.1145/3763320"> DOI </a> · 
       <a href="https://youtu.be/7jpIGQ0LVV0"> Video </a> · 
       <a href="/project_pages/ViscousVortex2025.html"> Page </a>
     </p>
@@ -96,9 +97,9 @@ permalink: /about/
     <img src="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg" alt="Mem3DG" class="pub-image">
   </a>
   <div class="pub-text">
-    <h3>Mem3DG: Modeling Membrane Mechanochemical Dynamics in 3D using Discrete Differential Geometry</h3>
+    <h3>Mem3DG: modeling membrane mechanochemical dynamics in 3D using discrete differential geometry</h3>
     <p><strong>C. Zhu</strong>, Christopher T. Lee, Padmini Rangamani</p>
-    <p><em>Biophysical Reports</em> (Cover, Sep 2022)</p>
+    <p><em>Biophysical Reports</em> (Cover of Vol. 2, Issue 3, Apr 2022)</p>
     <p class="pub-links">
       <a href="/assets/files/mem3dg.pdf"> PDF </a> · 
       <a href="https://doi.org/10.1016/j.bpr.2022.100062"> DOI </a> · 
