@@ -35,6 +35,20 @@ permalink: /about/
 </div>
 
 <div class="pub-card">
+  <a href="https://doi.org/10.1101/2025.05.23.655805" class="pub-image-link">
+    <img src="/assets/images/santhosh_2025.png" alt="santhosh_2025" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Coherent structures in active flows on dynamic surfaces</h3>
+    <p>Sreejith Santhosh, <strong>C. Zhu</strong>, Blase Fencil, Mattia Serra</p>
+    <p class="pub-links">
+      <a href="https://doi.org/10.1101/2025.05.23.655805"> Preprint </a> · 
+      <a href="https://sreejithsanthosh.github.io/FTLEhub/"> Page </a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
   <a href="/assets/files/RiemannianNematics.pdf" class="pub-image-link">
     <img src="/assets/images/rspa.jpg" alt="Active nematic fluids" class="pub-image">
   </a>
