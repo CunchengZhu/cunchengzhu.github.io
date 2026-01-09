@@ -17,6 +17,20 @@ permalink: /about/
 <section class="pub-section">
 
 <div class="pub-card">
+  <a href="https://arxiv.org/abs/2601.05220" class="pub-image-link">
+    <img src="/assets/images/hernandez_2026.png" alt="hernandez_2026" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Mechanics of axis formation in <em>Hydra</em> </h3>
+    <p>Arthur Hernandez<sup>†</sup>, <strong>C. Zhu</strong><sup>†</sup>, Luca Giomi<br>
+    <small><sup>†</sup> Equal contribution</small></p>
+    <p class="pub-links">
+      <a href="https://arxiv.org/abs/2601.05220"> Preprint </a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
   <a href="/project_pages/ViscousVortex2025.html" class="pub-image-link">
     <img src="/assets/images/vis_vor_siggraph.png" alt="Viscous vortex dynamics" class="pub-image">
   </a>
