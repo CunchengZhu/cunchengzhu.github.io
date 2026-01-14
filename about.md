@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /about/
+permalink: /publications/
 ---
 <!-- ## Name and Pronouciation  -->
 <!-- My first name is CunCheng (存诚), or in short, Cheng (诚), and last name is Zhu (朱).   -->
@@ -18,7 +18,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="https://arxiv.org/abs/2601.05220" class="pub-image-link">
-    <img src="/assets/images/hernandez_2026.png" alt="hernandez_2026" class="pub-image">
+    <img src="/assets/images/publications/hernandez_2026.png" alt="hernandez_2026" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Mechanics of axis formation in <em>Hydra</em> </h3>
@@ -32,7 +32,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="/project_pages/ViscousVortex2025.html" class="pub-image-link">
-    <img src="/assets/images/vis_vor_siggraph.png" alt="Viscous vortex dynamics" class="pub-image">
+    <img src="/assets/images/publications/vis_vor_siggraph.png" alt="Viscous vortex dynamics" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Viscous vortex dynamics on surfaces</h3>
@@ -50,7 +50,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="https://doi.org/10.1101/2025.05.23.655805" class="pub-image-link">
-    <img src="/assets/images/santhosh_2025.png" alt="santhosh_2025" class="pub-image">
+    <img src="/assets/images/publications/santhosh_2025.png" alt="santhosh_2025" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Coherent structures in active flows on dynamic surfaces</h3>
@@ -64,7 +64,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="/assets/files/RiemannianNematics.pdf" class="pub-image-link">
-    <img src="/assets/images/rspa.jpg" alt="Active nematic fluids" class="pub-image">
+    <img src="/assets/images/publications/rspa.jpg" alt="Active nematic fluids" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Active nematic fluids on Riemannian 2-manifolds</h3>
@@ -81,7 +81,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="/assets/files/EvolvingStokes.pdf" class="pub-image-link">
-    <img src="/assets/images/evolve.jpeg" alt="Evolving Stokes flow" class="pub-image">
+    <img src="/assets/images/publications/evolve.jpeg" alt="Evolving Stokes flow" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Stokes flow of an evolving fluid film with arbitrary shape and topology</h3>
@@ -98,7 +98,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="https://doi.org/10.1038/s41593-024-01813-1" target="_blank" class="pub-image-link">
-    <img src="/assets/images/griswold-axon-pearling.webp" alt="Axonal pearling" class="pub-image">
+    <img src="/assets/images/publications/griswold-axon-pearling.webp" alt="Axonal pearling" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Membrane mechanics dictate axonal pearls-on-a-string morphology and function</h3>
@@ -110,7 +110,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="https://doi.org/10.1016/j.celrep.2023.113089" target="_blank" class="pub-image-link">
-    <img src="/assets/images/nakamura-actuator.webp" alt="actuator" class="pub-image">
+    <img src="/assets/images/publications/nakamura-actuator.webp" alt="actuator" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>ActuAtor: a Listeria-inspired molecular tool for physical manipulation of intracellular organizations</h3>
@@ -122,7 +122,7 @@ permalink: /about/
 
 <div class="pub-card">
   <a href="/assets/files/mem3dg.pdf" class="pub-image-link">
-    <img src="/assets/images/BPR_2_3_COVER-copy-600-600-p-L-97.jpg" alt="Mem3DG" class="pub-image">
+    <img src="/assets/images/publications/BPR_2_3_COVER-copy-600-600-p-L-97.jpg" alt="Mem3DG" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>Mem3DG: modeling membrane mechanochemical dynamics in 3D using discrete differential geometry</h3>
