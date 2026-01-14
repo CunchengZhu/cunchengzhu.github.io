@@ -15,11 +15,22 @@
             box-shadow: 0 2px 4px rgba(1, 0, 0,0.2); /* Optional: adds a shadow for a 3D effect */
         }
     </style>
+
+    {% if page.math %}
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      };
+      </script>
+      <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    {% endif %}
   </head>
 
 
   <body>
-
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
