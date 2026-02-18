@@ -110,7 +110,7 @@ permalink: /publications/
 
 <div class="pub-card">
   <a href="https://doi.org/10.1016/j.celrep.2023.113089" target="_blank" class="pub-image-link">
-    <img src="/assets/images/publications/nakamura-actuator.webp" alt="actuator" class="pub-image">
+    <img src="/assets/images/publications/nakamura-actuator.png" alt="actuator" class="pub-image">
   </a>
   <div class="pub-text">
     <h3>ActuAtor: a Listeria-inspired molecular tool for physical manipulation of intracellular organizations</h3>
