@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
   <head>
+    {%- include head.html -%}
     <style>
         .image-side {
             float: left; /* or 'left' if you want it on the left */
@@ -13,6 +13,9 @@
             /* Optional styles */
             border-radius: 5%; 
             box-shadow: 0 2px 4px rgba(1, 0, 0,0.2); /* Optional: adds a shadow for a 3D effect */
+        }
+        .social-media-list img {
+          opacity: 0.5;
         }
     </style>
 
