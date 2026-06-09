@@ -17,6 +17,20 @@ permalink: /publications/
 <section class="pub-section">
 
 <div class="pub-card">
+  <a href="/assets/files/PhD_thesis_2026.pdf" class="pub-image-link">
+    <img src="/assets/images/publications/thesis_2026.png" alt="thesis_2026" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Geometry and mechanics of fluid surfaces</h3>
+    <p>PhD Dissertation, University of California San Diego, 2026.</p>
+    <p class="pub-links">
+      <a href="/assets/files/PhD_thesis_2026.pdf"> PDF </a>
+    </p>
+  </div>
+</div>
+
+
+<div class="pub-card">
   <a href="https://arxiv.org/abs/2601.05220" class="pub-image-link">
     <img src="/assets/images/publications/hernandez_2026.png" alt="hernandez_2026" class="pub-image">
   </a>
