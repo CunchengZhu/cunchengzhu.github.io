@@ -24,7 +24,8 @@ permalink: /publications/
     <h3>Geometry and mechanics of fluid surfaces</h3>
     <p>PhD Dissertation, University of California San Diego, 2026.</p>
     <p class="pub-links">
-      <a href="/assets/files/PhD_thesis_2026.pdf"> PDF </a>
+      <a href="/assets/files/PhD_thesis_2026.pdf"> PDF </a> ·
+      <a href= "https://www.proquest.com/dissertations-theses/geometry-mechanics-fluid-surfaces/docview/3367914335/se-2?accountid=14503"> URL </a>
     </p>
   </div>
 </div>
