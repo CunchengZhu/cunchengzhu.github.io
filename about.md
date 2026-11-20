@@ -17,20 +17,6 @@ permalink: /publications/
 <section class="pub-section">
 
 <div class="pub-card">
-  <a href="/assets/files/PhD_thesis_2026.pdf" class="pub-image-link">
-    <img src="/assets/images/publications/thesis_2026.png" alt="thesis_2026" class="pub-image">
-  </a>
-  <div class="pub-text">
-    <h3>Geometry and mechanics of fluid surfaces</h3>
-    <p>PhD Dissertation, University of California San Diego, 2026.</p>
-    <p class="pub-links">
-      <a href="/assets/files/PhD_thesis_2026.pdf"> PDF </a> ·
-      <a href="https://search.proquest.com/openview/01c4b1dc233cb301d2acbcba88a38881/1?pq-origsite=gscholar&cbl=18750&diss=y"> URL </a>
-    </p>
-  </div>
-</div>
-
-<div class="pub-card">
   <a href="https://doi.org/10.1103/t1s1-gky6" class="pub-image-link">
     <img src="/assets/images/publications/hernandez_2026.png" alt="hernandez_2026" class="pub-image">
   </a>
@@ -160,6 +146,20 @@ permalink: /publications/
       <a href="https://www.biophysics.org/blog/from-the-animation-industry-to-membrane-biophysics"> Blog </a> ·
       <a href="https://www.biorxiv.org/content/10.1101/2021.10.30.466618v2"> Preprint </a> ·
       <a href="https://github.com/CunchengZhu/Mem3DG"> Code </a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <a href="/assets/files/PhD_thesis_2026.pdf" class="pub-image-link">
+    <img src="/assets/images/publications/thesis_2026.png" alt="thesis_2026" class="pub-image">
+  </a>
+  <div class="pub-text">
+    <h3>Geometry and mechanics of fluid surfaces</h3>
+    <p>PhD Dissertation, University of California San Diego, 2026.</p>
+    <p class="pub-links">
+      <a href="/assets/files/PhD_thesis_2026.pdf"> PDF </a> ·
+      <a href="https://search.proquest.com/openview/01c4b1dc233cb301d2acbcba88a38881/1?pq-origsite=gscholar&cbl=18750&diss=y"> URL </a>
     </p>
   </div>
 </div>
